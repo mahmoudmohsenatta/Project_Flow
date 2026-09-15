@@ -1,0 +1,4 @@
+export enum TaskActivityType {
+  STATUS_CHANGED = 'STATUS_CHANGED',
+  ASSIGNEE_CHANGED = 'ASSIGNEE_CHANGED',
+}
